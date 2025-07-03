@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey there! I'm Jenq-q
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Game+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+  <div class="tenor-gif-embed" data-postid="24211286" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/deku-java-programing-cry-mochiatun-gif-24211286">Deku Java GIF</a>from <a href="https://tenor.com/search/deku-gifs">Deku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div align="center">

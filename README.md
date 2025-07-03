@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/bNKCM.gif" width="400"/>
+  <img src="https://media.tenor.com/TQS7IS7YRIcAAAAi/deku-java.gif" width="400"/>
 </div>
 
 ## 🎯 About Me
@@ -127,7 +127,7 @@ const jenq = {
 ## 🎮 Currently Playing With
 
 <div align="center">
-  <img src="https://tenor.com/3QOE.gif" width="300"/>
+  <img src="https://media.tenor.com/X5pXhFGFZBMAAAAi/working-from-home-computer.gif" width="300"/>
 </div>
 
 <div align="center">

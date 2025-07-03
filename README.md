@@ -21,26 +21,27 @@ const jenq = {
         "Self-Taught Developer and Designer",
         "Computer Science Student"
     ],
-    code: ["JavaScript", "HTML", "CSS", "C#"],
+    code: ["JavaScript", "HTML", "CSS", "C#", "C", "C++", "Kotlin", "SCSS", "Java", "Python"],
     technologies: {
         frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
         gameEngine: ["Unity"],
-        tools: ["Git", "GitHub", "VS Code"]
+        tools: ["Git", "GitHub", "VS Code", "Figma", "VS Studio", "Eclipse", "Android Studio", "Firebase"]
     },
     fields_of_interests: [
         "Web Development",
-        "Game Development", 
+        "Game Development",
+        "App Development",
         "UI/UX",
         "Problem Solving"
     ],
     technical_background: [
-        "Full Stack Developer",
-        "Game Developer",
-        "React Developer"
+        "Wannabe Full Stack Developer",
+        "Wannabe Game Developer",
+        "Wannabe React Developer"
     ],
     currently_learning: ["NextJS", "Advanced React Patterns", "Unity URP"],
     currentFocus: "Building scalable web applications & interactive games",
-    hobbies: ["Gaming", "Coding", "Anime", "Problem Solving"],
+    hobbies: ["Gaming", "Coding", "Music", "Anime", "Problem Solving", "Watching shows and movies", "Snacking"],
     funFact: "I debug with console.log and I'm not ashamed of it 😄"
 };
 ```

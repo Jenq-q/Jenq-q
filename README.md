@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://tenor.com/bNKCM.gif" width="400"/>
 </div>
 
 ## 🎯 About Me
@@ -21,7 +21,7 @@ const jenq = {
         "Self-Taught Developer and Designer",
         "Computer Science Student"
     ],
-    code: ["JavaScript", "HTML", "CSS", "C#", "ShaderLab"],
+    code: ["JavaScript", "HTML", "CSS", "C#"],
     technologies: {
         frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
         gameEngine: ["Unity"],
@@ -127,7 +127,7 @@ const jenq = {
 ## 🎮 Currently Playing With
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://tenor.com/3QOE.gif" width="300"/>
 </div>
 
 <div align="center">
@@ -180,7 +180,7 @@ const jenq = {
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk to you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
 <div align="center">

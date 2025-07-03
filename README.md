@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </div>
 
 ## 🎯 About Me
@@ -14,13 +14,33 @@
 
 ```javascript
 const jenq = {
+    name: "Jenq-q",
+    located_in: "Kathmandu, Nepal",
+    current_status: "Full Stack Developer",
+    education: [
+        "Self-Taught Developer and Designer",
+        "Computer Science Student"
+    ],
     code: ["JavaScript", "HTML", "CSS", "C#", "ShaderLab"],
     technologies: {
         frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
         gameEngine: ["Unity"],
         tools: ["Git", "GitHub", "VS Code"]
     },
+    fields_of_interests: [
+        "Web Development",
+        "Game Development", 
+        "UI/UX",
+        "Problem Solving"
+    ],
+    technical_background: [
+        "Full Stack Developer",
+        "Game Developer",
+        "React Developer"
+    ],
+    currently_learning: ["NextJS", "Advanced React Patterns", "Unity URP"],
     currentFocus: "Building scalable web applications & interactive games",
+    hobbies: ["Gaming", "Coding", "Anime", "Problem Solving"],
     funFact: "I debug with console.log and I'm not ashamed of it 😄"
 };
 ```
@@ -46,15 +66,38 @@ const jenq = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![HealConnect](https://github-readme-stats.vercel.app/api/pin/?username=TinyCoders-q-q&repo=HealConnect&theme=radical&border_color=FF6B6B)](https://github.com/TinyCoders-q-q/HealConnect)
-[![Tower Defense](https://github-readme-stats.vercel.app/api/pin/?username=Jenq-q&repo=Tower-Defense&theme=radical&border_color=FF6B6B)](https://github.com/Jenq-q/Tower-Defense)
-
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/TinyCoders-q-q/HealConnect">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TinyCoders-q-q&repo=HealConnect&theme=radical&border_color=FF6B6B" width="100%"/>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Jenq-q/Tower-Defense">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenq-q&repo=Tower-Defense&theme=radical&border_color=FF6B6B" width="100%"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Jenq-q/Submission-Form">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jenq-q&repo=Submission-Form&theme=radical&border_color=FF6B6B" width="100%"/>
+        </a>
+      </td>
+      <td width="50%">
+        <div align="center" style="padding: 20px;">
+          <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+          <p><strong>More Projects Coming Soon...</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 💡 Project Highlights
 
-🏥 **HealConnect** - Hackathon contestent connecting therapists and patients safely  
+🏥 **HealConnect** - Hackathon contestant connecting therapists and patients safely  
 🗼 **Tower Defense** - Strategic game with custom shaders and AI  
 📝 **Submission Form** - React-powered dynamic form with validation  
 
@@ -63,8 +106,16 @@ const jenq = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenq-q&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=6&theme=radical&border_color=FF6B6B"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jenq-q&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=6&theme=radical&border_color=FF6B6B" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -79,27 +130,57 @@ const jenq = {
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 </div>
 
-- 🔥 Advanced React patterns and state management
-- 🔧Frontend and Backend using NextJS
-- 🎯 Unity's Universal Render Pipeline (URP)
-- 🚀 Performance optimization techniques
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        🔥 Advanced React patterns and state management
+      </td>
+      <td width="50%">
+        🔧 Frontend and Backend using NextJS
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        🎯 Unity's Universal Render Pipeline (URP)
+      </td>
+      <td width="50%">
+        🚀 Performance optimization techniques
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jen.q_q/profilecard/?igsh=MW5weHRudmRrZm1zNQ==)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jenq-q)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikarijenish623@gmail.com)
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.instagram.com/jen.q_q/profilecard/?igsh=MW5weHRudmRrZm1zNQ==">
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jenq-q">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:adhikarijenish623@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk to you more!</b> 😊</em>
 </div>
 
 <div align="center">

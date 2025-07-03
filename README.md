@@ -54,7 +54,7 @@ const jenq = {
 
 ### 💡 Project Highlights
 
-🏥 **HealConnect** - Hackathon winner connecting therapists and patients safely  
+🏥 **HealConnect** - Hackathon contestent connecting therapists and patients safely  
 🗼 **Tower Defense** - Strategic game with custom shaders and AI  
 📝 **Submission Form** - React-powered dynamic form with validation  
 

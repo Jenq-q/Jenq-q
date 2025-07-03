@@ -98,7 +98,7 @@ const jenq = {
 ### 💡 Project Highlights
 
 🏥 **HealConnect** - Hackathon contestant connecting therapists and patients safely  
-🗼 **Tower Defense** - Strategic game with custom shaders and AI  
+🗼 **Tower Defense** - Strategic game with path finding, BFS, priority queue, and more  
 📝 **Submission Form** - React-powered dynamic form with validation  
 
 ---
@@ -112,7 +112,7 @@ const jenq = {
         <img src="https://github-readme-stats.vercel.app/api?username=Jenq-q&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=6&theme=radical&border_color=FF6B6B" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=6&theme=radical&border_color=FF6B6B&hide=hlsl,shaderlab" width="100%"/>
       </td>
     </tr>
   </table>

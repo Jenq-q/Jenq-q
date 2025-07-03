@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/TQS7IS7YRIcAAAAi/deku-java.gif" width="400"/>
+  <img src="https://media.tenor.com/TQS7IS7YRIcAAAAd/deku-java.gif" width="400"/>
 </div>
 
 ## 🎯 About Me
@@ -98,7 +98,7 @@ const jenq = {
 ### 💡 Project Highlights
 
 🏥 **HealConnect** - Hackathon contestant connecting therapists and patients safely  
-🗼 **Tower Defense** - Strategic game with path finding, BFS, priority queue, and more  
+🗼 **Tower Defense** - Strategic game with custom shaders and AI  
 📝 **Submission Form** - React-powered dynamic form with validation  
 
 ---
@@ -127,7 +127,7 @@ const jenq = {
 ## 🎮 Currently Playing With
 
 <div align="center">
-  <img src="https://media.tenor.com/X5pXhFGFZBMAAAAi/working-from-home-computer.gif" width="300"/>
+  <img src="https://media.tenor.com/X5pXhFGFZBMAAAAd/working-from-home-computer.gif" width="300"/>
 </div>
 
 <div align="center">

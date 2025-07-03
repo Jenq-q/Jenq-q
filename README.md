@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey there! I'm Jenq-q
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="24211286" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/deku-java-programing-cry-mochiatun-gif-24211286">Deku Java GIF</a>from <a href="https://tenor.com/search/deku-gifs">Deku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Game+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/TQS7IS7YRIcAAAAd/deku-java.gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NzExa3k0Z2c4Ym9wbnp5OGoxdGhrczg5emJ4bmY3YjJ4Z3BrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" width="400"/>
 </div>
 
 ## 🎯 About Me
@@ -127,7 +127,7 @@ const jenq = {
 ## 🎮 Currently Playing With
 
 <div align="center">
-  <img src="https://media.tenor.com/X5pXhFGFZBMAAAAd/working-from-home-computer.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBtYjhwOWVvcW04aDR3ZXBobGFxYjM3Z28waDV4bTRidW1oaTIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="300"/>
 </div>
 
 <div align="center">

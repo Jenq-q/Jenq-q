@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NzExa3k0Z2c4Ym9wbnp5OGoxdGhrczg5emJ4bmY3YjJ4Z3BrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" width="400"/>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NzExa3k0Z2c4Ym9wbnp5OGoxdGhrczg5emJ4bmY3YjJ4Z3BrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" width="300"/>
 </div>
 
 ## 🎯 About Me
@@ -21,26 +21,27 @@ const jenq = {
         "Self-Taught Developer and Designer",
         "Computer Science Student"
     ],
-    code: ["JavaScript", "HTML", "CSS", "C#"],
+    code: ["JavaScript", "HTML", "CSS", "C#", "C", "C++", "Kotlin", "SCSS", "Java", "Python"],
     technologies: {
         frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
         gameEngine: ["Unity"],
-        tools: ["Git", "GitHub", "VS Code"]
+        tools: ["Git", "GitHub", "VS Code", "Figma", "VS Studio", "Eclipse", "Android Studio", "Firebase"]
     },
     fields_of_interests: [
         "Web Development",
-        "Game Development", 
+        "Game Development",
+        "App Development",
         "UI/UX",
         "Problem Solving"
     ],
     technical_background: [
-        "Full Stack Developer",
-        "Game Developer",
-        "React Developer"
+        "Wannabe Full Stack Developer",
+        "Wannabe Game Developer",
+        "Wannabe React Developer"
     ],
     currently_learning: ["NextJS", "Advanced React Patterns", "Unity URP"],
     currentFocus: "Building scalable web applications & interactive games",
-    hobbies: ["Gaming", "Coding", "Anime", "Problem Solving"],
+    hobbies: ["Gaming", "Coding", "Music", "Anime", "Problem Solving", "Watching shows and movies", "Snacking"],
     funFact: "I debug with console.log and I'm not ashamed of it 😄"
 };
 ```
@@ -112,18 +113,13 @@ const jenq = {
         <img src="https://github-readme-stats.vercel.app/api?username=Jenq-q&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&hide_border=false" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=8&theme=radical&border_color=FF6B6B&hide=hlsl,shaderlab,glsl&exclude_repo=Tower-Defense" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenq-q&layout=compact&langs_count=8&theme=radical&border_color=FF6B6B&hide=hlsl,shaderlab,glsl" width="100%"/>
       </td>
     </tr>
   </table>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenq-q&theme=radical&border=FF6B6B&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jenq-q&theme=radical&border_color=FF6B6B&hide_border=false" alt="Wakatime Stats" />
 </div>
 
 ---

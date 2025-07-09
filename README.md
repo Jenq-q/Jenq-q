@@ -16,7 +16,7 @@
 const jenq = {
     name: "Jenq-q",
     located_in: "Kathmandu, Nepal",
-    current_status: "Full Stack Developer",
+    current_status: "Jobless and broke",
     education: [
         "Self-Taught Developer and Designer",
         "Computer Science Student"
